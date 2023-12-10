@@ -24,15 +24,18 @@ Purchased Bike: Binary field indicating whether the individual purchased a bike 
 
 # Project Scope:
 
-## Data Analysis
-Using Google Sheets, the dataset was analyzed to:
+# Data Cleaning and Analysis
+Data cleaning procedures were applied to handle empty or missing values within the dataset. The cleaning process involved:
+
+Identification of empty fields in different columns.
+Handling missing values through imputation, deletion, or estimation based on appropriate methods for each field.
+
+## Insights and Visualizations
+Using Google Sheets, the cleaned dataset was analyzed to:
 
 Identify demographic trends among bike purchasers.
 Analyze factors influencing bike purchase decisions.
 Create visualizations and summaries to understand correlations and insights within the data.
-
-# Insights and Visualizations:
-The project includes various graphs, charts, and summary tables generated within Google Sheets to provide insights into bike purchasing behavior based on different demographics and socio-economic attributes.
 
 # Accessing the Project
 
